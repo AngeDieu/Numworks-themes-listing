@@ -22,7 +22,7 @@ make THEME_NAME="your_theme"
 ```
 - either compile your theme from it's repository :
 ```bash
-make THEME_NAME="your_theme" THEME_REPO="https://AngeDieu/Numworks-themes-listing/tree/main/themes/{your_theme}"
+make THEME_NAME="your_theme" THEME_REPO="https://AngeDieu/Numworks-themes-listing"
 ```
 
 ### Contributing
