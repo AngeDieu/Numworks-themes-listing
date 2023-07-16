@@ -1,0 +1,189 @@
+// copied from https://github.com/Psi-Prod/Omega-custom-theme-Listing/blob/master/descriptions/french_index.json
+
+{
+    "name": "Index",
+    "icons": "index",
+    "colors": {
+        "PrimaryText": "Principal Text",
+        "SecondaryText": "Secondary text in the Settings app, Column names and thin lines above the screen in the Stats and Regression apps, 
+                         Outline of large major buttons, Approximation of a result in the Calculator app",
+        "AccentText": "Link of the download site on the USB connect screen",
+        "ApproximateSignText": "???",
+        "ApproximateExpressionText": "???",
+
+        "Background": {
+            "Hard": "Background color in usb splash
+                    In the Graph app: Background color + let's define functions with odd numbers, In the 'Values' window, color of the even lines
+                    In Python: Odd python files
+                    In Stats and Regression: Color of column titles, line below window names, color of even rows
+                    In Equations: Lines with expression, Brace background color + Odd number equation results,
+                    In Calculation: Area '...' in a calculation with an odd number
+                    In RPN: Background color of an even number
+                    More: Text of memory alerts, Background color of significant digits in Settings,
+                    In Probas: Line background color with parameters and results
+                    Parameters: Date and time when not selected for the 1st time (weird)",
+            "Apps": "Calculation: Color of the background and the '...'' zones when the calculation number is even
+                    Rpn: Background color + odd lines
+                    Graph/Suites: Background color of functions with even number
+                    Python: Background color of even programs,
+                    Stats/Regression: Odd rows of tables,
+                    Proba: Menu background color
+                    Equation: Background Color and Background Color of even lines results
+                    More: Window background, 'No quantity to calculate', Parameter background color",
+
+            "AppsSecondary": "???"
+        },
+
+        "Toolbar": {
+            "": "Backround color of the upper bar",
+            "Text": "Color of the text on the upper bar, exept battery"
+        },
+
+        "ExpressionInput": {
+            "Background": "Input bar color in apps (Calculus, Graph)... and Selected result color in Calculator app",
+            "Border": "Color of the line between the input bar and the rest"
+        },
+
+        "Grid": {
+            "PrimaryLine": "Color of the important lines in graph",
+            "SecondaryLine": "Color of the minor lines in graph"
+        },
+
+        "Battery": {
+            "": "Battery icon color",
+            "InCharge": "battery charging color",
+            "Low": "low battery color"
+        },
+
+        "ScrollBar": {
+            "Foreground": "active scrollbar color",
+            "Background": "inactive scrollbar color"
+        },
+
+        "Control": {
+            "": "Arrow colors in the settings + Color of the circles of the sliders",
+            "Enabled": "Parameter enabled / Part of the slider enabled",
+            "Disabled": "Parameter disabled / Part of the slider disabled"
+        },
+
+        "Calculation": {
+            "BackgroundOdd": "Color of the results in odd lines",
+            "BackgroundEven": "Color of the results in even lines",
+            "EmptyBox": "Color of the potential digit entry zone",
+            "EmptyBoxNeeded": "Color of missing digits in a matrix",
+            "TrigoAndComplexForeground": "Colors of informations in a complex or trigonometric graph"
+        },
+
+        "Code": {
+            "Background": "Backround color in Python app",
+            "BackgroundSelected": "Backround color of the selected text in Python",
+            "Text": "Normal text color in Python",
+            "Comment": "Comments color in Python",
+            "Number": "Numbers color in Python",
+            "Keyword": "Base function keywords color (ex : def, for, in, from, import...)",
+            "Operator": "Comparators or operations color (>, =, !=, *, /...)",
+            "String": "String of a text, with quotes",
+            "GutterViewBackground": "Left row numbering band background color"
+        },
+
+        "Probability": {
+            "Curve": "Probability curve color",
+            "CellBorder": "Input cell color in proba menu",
+            "HistogramBar": "Probas histogram bars color"
+        },
+
+        "Statistics": {
+            "Box": "Chosen quartile color",
+            "BoxVerticalLine": "Quartile color not chosen",
+            "Selected": "Selected stats histogram color",
+            "NotSelected": "Stats histogram color not selected"
+        },
+
+        "Graph": {
+            "Tangent": "Color of the tangent of a graph function (Modifiable indexes of function colors in makefiles)"
+        },
+
+        "SubMenu": {
+            "Background": "Color name submenu below chart",
+            "Border": "Color above and below submenu",
+            "Text": "Submenu text color (Menu 'Ok' in graph)"
+        },
+
+        "Toolbox": {
+            "HeaderBackground": "Area background color with 'Toolbox'",
+            "HeaderText": "Text color in 'Toolbox'",
+            "HeaderBorder": "Area boundary color with 'Toolbox'",
+            "Background": "???"
+        },
+
+        "List": {
+            "CellBackground": "Background color of a text area (ex: pop-up usb), Background color of a cell of choice (ex: choice of country)",
+            "CellBackgroundSelected": "Background color of the chosen option (cell, see country)",
+            "CellBorder": "Cell border color (see country)"
+        },
+
+        "Buttons": {
+            "Background": "Button color not chosen",
+            "BackgroundSelected": "Selected button color",
+            "BackgroundSelectedHighContrast": "???",
+            "Border": "???",
+            "RowBorder": "Color of the outline of the button, and of the boundary between the button and the rest (ex: in graph, the line between the buttons and the function area)",
+            "BorderOut": "Background color of button area",
+            "Shadow": "Color of the shadow of the button, on the left and at the bottom of this one",
+            "Text": "Text color in button"
+        },
+
+        "Tab": {
+            "Background": "Background color of a tab not active nor selected",
+            "BackgroundSelected": "Background color of a selected but not active tab",
+            "BackgroundActive": "Background color of an active but not selected tab",
+            "BackgroundSelectedAndActive": "Background color of a selected and active tab",
+            "Text": "Text color in tabs not active (even if selected)",
+            "TextActive": "Text color in active tabs"
+        },
+
+        "SubTab": {
+            "Background": "???",
+            "BackgroundSelected": "???",
+            "Text": "???"
+        },
+
+        "Banner": {
+            "FirstBackground": "Background color of the banner (ex: in proba, name of the law chosen at the top of the screen)",
+            "FirstBorder": "1 pixel border separating the banner from the rest (probably fixed by nw, to see)",
+            "FirstText": "Text color in banner",
+            "FirstVariantBackground": "Colour of the border of a secondary banner (ex: in proba, after choosing the parameters)",
+            "FirstVariantBorder": "???",
+            "FirstVariantText": "???",
+            "SecondBackground": "Secondary banner background color",
+            "SecondBorder": "???",
+            "SecondText": "Text color in secondary banner"
+        },
+
+        "Home": {
+            "Background": "Main menu background color",
+            "CellBackground": "Unselected app name background color",
+            "CellBackgroundActive": "Background color of selected app name",
+            "CellText": "App name text color not chosen",
+            "CellTextActive": "Selected app name text color",
+            "CellTextExternal": "Text color of the name of an external app not chosen (Ex: nofrendo)",
+            "CellTextExternalActive": "Text color of the name of a chosen external app (Ex: nofrendo)"
+        },
+
+        "Atom": {
+            "Unknown": "All elements have a class, the color of each can be changed here.",
+            "Text": "Text color in the periodic table",
+            "AlkaliMetal": "Cf Unknown",
+            "AlkaliEarthMetal": "Cf Unknown",
+            "Lanthanide": "Cf Unknown",
+            "Actinide": "Cf Unknown",
+            "TransitionMetal": "Cf Unknown",
+            "PostTransitionMetal": "Cf Unknown",
+            "Metalloid": "Cf Unknown",
+            "Halogen": "Cf Unknown",
+            "ReactiveNonmetal": "Cf Unknown",
+            "NobleGas": "Cf Unknown",
+            "TableLines": "Lines color in the periodic table"
+        }
+    }
+}
