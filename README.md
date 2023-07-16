@@ -26,7 +26,7 @@ make THEME_NAME="your_theme" THEME_REPO="https://AngeDieu/Numworks-themes-listin
 ```
 
 ### Contributing
-Don't hesitate to add your theme in this list by creating a PR or an issue. If possible, it would be nice if you put sreenshots of your theme in a readme file. I can do it elsewhere.
+Don't hesitate to add your theme in this list by creating a Pull Request or an Issue. If possible, it would be nice if you put sreenshots of your theme in the README file.
 
 ### Licence
 This repo is released with an MIT licence.
