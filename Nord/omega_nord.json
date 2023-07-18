@@ -1,0 +1,148 @@
+{
+  "name": "Nord",
+  "icons": "omega_nord",
+  "colors": {
+    "PrimaryText": "eceff4",
+    "SecondaryText": "81a1c1",
+    "AccentText": "81a1c1",
+    "ApproximateSignText": "5e81ac",
+    "ApproximateExpressionText": "5e81ac",
+    "Background": {
+      "Hard": "2e3440",
+      "Apps": "2e3440",
+      "AppsSecondary": "434c5e"
+    },
+    "Toolbar": {
+      "": "3b4252",
+      "Text": "d8dee9"
+    },
+    "ExpressionInput": {
+      "Background": "434c5e",
+      "Border": "3b4252"
+    },
+    "Grid": {
+      "PrimaryLine": "4c566a",
+      "SecondaryLine": "434c5e"
+    },
+    "Battery": {
+      "": "d8dee9",
+      "InCharge": "a3be8c",
+      "Low": "bf616a"
+    },
+    "ScrollBar": {
+      "Foreground": "81a1c1",
+      "Background": "5e81ac"
+    },
+    "Control": {
+      "": "a3be8c",
+      "Enabled": "8fbcbb",
+      "Disabled": "4c566a"
+    },
+    "Calculation": {
+      "BackgroundOdd": "434c5e",
+      "BackgroundEven": "2e3440",
+      "EmptyBox": "4c566a",
+      "EmptyBoxNeeded": "8fbcbb",
+      "TrigoAndComplexForeground": "ff000c"
+    },
+    "Code": {
+      "Background": "2e3440",
+      "BackgroundSelected": "4c566a",
+      "Text": "eceff4",
+      "Comment": "d8dee9",
+      "Number": "b48ead",
+      "Keyword": "81a1c1",
+      "Operator": "88c0d0",
+      "String": "a3be8c",
+      "GutterViewBackground": "242933"
+    },
+    "Probability": {
+      "Curve": "8fbcbb",
+      "CellBorder": "2e3440",
+      "HistogramBar": "4c566a"
+    },
+    "Statistics": {
+      "Box": "8fbcbb",
+      "BoxVerticalLine": "4c566a",
+      "Selected": "8fbcbb",
+      "NotSelected": "3b4252"
+    },
+    "Graph": {
+      "Tangent": "4c566a"
+    },
+    "SubMenu": {
+      "Background": "434c5e",
+      "Border": "3b4252",
+      "Text": "eceff4"
+    },
+    "Toolbox": {
+      "HeaderBackground": "4c566a",
+      "HeaderText": "e5e9f0",
+      "HeaderBorder": "434c5e",
+      "Background": "2e3440"
+    },
+    "List": {
+      "CellBackground": "2e3440",
+      "CellBackgroundSelected": "3b4252",
+      "CellBorder": "3b4252"
+    },
+    "Button": {
+      "Background": "2e3440",
+      "BackgroundSelected": "3b4252",
+      "BackgroundSelectedHighContrast": "4c566a",
+      "Border": "434c5e",
+      "RowBorder": "4c566a",
+      "BorderOut": "2e3440",
+      "Shadow": "434c5e",
+      "Text": "eceff4"
+    },
+    "Tab": {
+      "Background": "2e3440",
+      "BackgroundSelected": "3b4252",
+      "BackgroundActive": "5e81ac",
+      "BackgroundSelectedAndActive": "81a1c1",
+      "Text": "e5e9f0",
+      "TextActive": "eceff4"
+    },
+    "SubTab": {
+      "Background": "2e3440",
+      "BackgroundSelected": "3b4252",
+      "Text": "eceff4"
+    },
+    "Banner": {
+      "FirstBackground": "2e3440",
+      "FirstBorder": "3b4252",
+      "FirstText": "2e3440",
+      "FirstVariantBackground": "434c5e",
+      "FirstVariantBorder": "3b4252",
+      "FirstVariantText": "2e3440",
+      "SecondBackground": "2e3440",
+      "SecondBorder": "3b4252",
+      "SecondText": "eceff4"
+    },
+    "Home": {
+      "Background": "2e3440",
+      "CellBackground": "2e3440",
+      "CellBackgroundActive": "434c5e",
+      "CellText": "d8dee9",
+      "CellTextActive": "eceff4",
+      "CellTextExternal": "d8dee9",
+      "CellTextExternalActive": "eceff4"
+    },
+    "Atom": {
+      "Unknown": "eeeeee",
+      "Text": "2e3440",
+      "AlkaliMetal": "ffaa00",
+      "AlkaliEarthMetal": "f6f200",
+      "Lanthanide": "ffaa8b",
+      "Actinide": "deaacd",
+      "TransitionMetal": "de999c",
+      "PostTransitionMetal": "9cbaac",
+      "Metalloid": "52ce8b",
+      "Halogen": "00debd",
+      "ReactiveNonmetal": "00ee00",
+      "NobleGas": "8baaff",
+      "TableLines": "323532"
+    }
+  }
+}
