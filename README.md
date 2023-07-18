@@ -34,7 +34,7 @@ All themes are released with their original licence. There is a licence file in 
 
 ### Thanks
 Thanks to :
-- @AngeDieu, the compiler.
+- @AngeDieu, the compiler. https://github.com/UpsilonNumworks/Upsilon
 - **Omega community** for developping [Omega](https://github.com/Omega-Numworks/Omega) and enableing themes for the Numworks calculator.
 - Psi-Prod's [Omega-custom-theme-listing](https://github.com/Psi-Prod/Omega-custom-theme-Listing/blob/master/descriptions/french_index.json) for the idea and the frame of the repo, and for the french_json_explanations.json.
 - [UpsilonNumworks](https://github.com/UpsilonNumworks/Upsilon/tree/upsilon-dev/themes) for the theme maker script (and dependencies)
